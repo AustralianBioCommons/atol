@@ -9,14 +9,35 @@
 ### add maintainers/contributors below and use their name in the contributors metadata section on each page they have contributed towards ###
 #############################################################################################################################################
 
-# an example contributor is included below
-# example roles include "lead", "first-author", "author", "editor", "workflow-tester"
+Tom Harrop:
+  git: tomharrop
+  email: tharrop@unimelb.edu.au
+  orcid: 0000-0001-6557-0440
+  role: bioinformatician
+  affiliation: Australian BioCommons / University of Melbourne
 
-#Johan Gustafsson:
-#    git: supernord
-#    email: johan@biocommons.org.au
-#    orcid: 0000-0002-2977-5032
-#    role: author
-#    affiliation: Australian BioCommons / University of Melbourne
+Emily Marshall:
+  git: emilylm
+  email: emily@biocommons.org.au
+  role: full-stack developer
+  affiliation: Australian BioCommons / University of Melbourne
 
+Amy Tims:
+  git: amytims
+  email: amy.tims@unimelb.edu.au
+  orcid: 0000-0002-4181-5113
+  role: bioinformatician
+  affiliation: Australian BioCommons / University of Melbourne
 
+Keeva Connolly:
+  git: keeva-c
+  email: keeva.connolly@qcif.edu.au
+  orcid: 0009-0004-1409-4041
+  role: scientific business analyst
+  affiliation: Australian BioCommons / QCIF
+
+Jane Tung:
+  git: jtung25
+  email: jane.tung@uq.edu.au
+  role: bioinformatician
+  affiliation: University of Queensland
