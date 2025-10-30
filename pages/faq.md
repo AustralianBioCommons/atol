@@ -6,7 +6,7 @@ toc: false
 
 ### What metadata does the Genome Engine require?
 
-The list of Bioplatforms metadata fields used in the Genome Engine is available [here](https://docs.google.com/spreadsheets/d/1qtVF_owSLjjkDxfCqMiG7rV2omp-F70-3HgHaXIeqOI/edit?usp=sharing). The list contains fields which are collected or defined during sampling, sequencing, or internal Bioplatforms processesing steps. Fields with controlled vocabularies or other value or format constraints are designated. These fields have been selected to comply with ENA and broader Tree of Life standards to sufficiently document provenance and facilitate interoperability and reusability. 
+The list of Bioplatforms metadata fields used in the Genome Engine is available [here](https://docs.google.com/spreadsheets/d/1qtVF_owSLjjkDxfCqMiG7rV2omp-F70-3HgHaXIeqOI/edit?usp=sharing). The list contains fields which are collected or defined during sampling, sequencing, or internal Bioplatforms processing steps. Fields with controlled vocabularies or other value or format constraints are designated. These fields have been selected to comply with ENA and broader Tree of Life standards to sufficiently document provenance and facilitate interoperability and reusability. 
 
 Controlled vocabulary terms are listed [here](https://docs.google.com/spreadsheets/d/1qtVF_owSLjjkDxfCqMiG7rV2omp-F70-3HgHaXIeqOI/edit?gid=1263334219#gid=1263334219). Use of controlled vocabulary terms is necessary for accurate data filtering and for compliance with ENA and Tree of Life standards.
 
