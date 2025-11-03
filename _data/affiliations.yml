@@ -13,14 +13,20 @@
 - name: Australian BioCommons
   image_url: /assets/img/Australian-Biocommons-Logo-Horizontal-RGB.png
   expose: true
-  type: partner
+  type: infrastructure
   url: https://www.biocommons.org.au/
 
 - name: Bioplatforms Australia
   image_url: /images/bioplatforms-australia-logo.png
   expose: true
-  type: partner
+  type: funder
   url: https://bioplatforms.com/
+
+- name: NCRIS
+  image_url: images/NCRIS-Logo.png
+  expose: true
+  type: funder
+  url: https://www.education.gov.au/ncris
 
 - name: The University of Melbourne
   image_url: /images/University-of-Melbourne-Logo.svg
@@ -31,5 +37,11 @@
 - name: Minderoo Foundation
   image_url: /images/Minderoo-Foundation-Logo.svg
   expose: true
-  type: partner
+  type: funder
   url: https://www.minderoo.org/
+
+- name: QCIF
+  image_url: images/QCIF-Logo.png
+  expose: true
+  type: partner
+  url: https://www.qcif.edu.au/
