@@ -63,9 +63,15 @@ Genome Notes will be made available to researchers prior to release to provide a
 ![Diagram of overall AToL architecture](images/AToL-architecture.png)
 *Australian Tree of Life architecture overview. Note: the interactive AToL web application is currently in development.*
 
-## Project Partners
+## Partners
 
-The Australian Tree of Life is a collaborative initiative. The project partners are the Australian BioCommons, Bioplatforms Australia, the University of Melbourne and the Minderoo Foundation.
+The Australian Tree of Life is a collaborative initiative. It is co-funded by Bioplatforms Australia and the Minderoo Foundation, and supported by project partners at the University of Melbourne and QCIF. Bioplatforms Australia is enabled by NCRIS.
+
+### Funding partners
+
+{% include affiliation-tiles-selection.html type="funder" %}
+
+### Project partners
 
 {% include affiliation-tiles-selection.html type="partner" %}
 
