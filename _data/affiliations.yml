@@ -29,7 +29,7 @@
   url: https://www.education.gov.au/ncris
 
 - name: The University of Melbourne
-  image_url: /images/University-of-Melbourne-Logo.svg
+  image_url: /images/UoM_logo-horizontal.png
   expose: true
   type: partner
   url: https://www.unimelb.edu.au/
@@ -45,3 +45,9 @@
   expose: true
   type: partner
   url: https://www.qcif.edu.au/
+
+- name: AGRF
+  image_url: images/AGRF-logo.webp
+  expose: true
+  type: intern-partner
+  url: https://www.agrf.org.au/

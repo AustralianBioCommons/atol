@@ -61,11 +61,13 @@ Once a genome has been assembled, a Genome Note document is generated, outlining
 Genome Notes will be made available to researchers prior to release to provide an opportunity to manually edit and add content.
 
 ![Diagram of overall AToL architecture](images/AToL-architecture.png)
-*Australian Tree of Life architecture overview. Note: the interactive AToL web application is currently in development.*
+*Australian Tree of Life architecture overview. Note the following are not currently available: the process of researchers submitting read data directly to ENA for assembly; the interactive AToL web application.*
 
 ## Partners
 
-The Australian Tree of Life is a collaborative initiative. It is co-funded by Bioplatforms Australia and the Minderoo Foundation, and supported by project partners at the University of Melbourne and QCIF. Bioplatforms Australia is enabled by NCRIS.
+The Australian Tree of Life is a collaborative initiative. It is co-funded by Bioplatforms Australia and the Minderoo Foundation, and supported by project partners at the University of Melbourne and QCIF. The AGRF are hosting a PhD student intern.
+
+Bioplatforms Australia is enabled by NCRIS.
 
 ### Funding partners
 
@@ -74,6 +76,10 @@ The Australian Tree of Life is a collaborative initiative. It is co-funded by Bi
 ### Project partners
 
 {% include affiliation-tiles-selection.html type="partner" %}
+
+### PhD industry placement partner
+
+{% include affiliation-tiles-selection.html type="intern-partner" %}
 
 ## Acknowledgements
 
