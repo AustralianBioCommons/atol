@@ -61,7 +61,7 @@ Once a genome has been assembled, a Genome Note document is generated, outlining
 Genome Notes will be made available to researchers prior to release to provide an opportunity to manually edit and add content.
 
 ![Diagram of overall AToL architecture](images/AToL-architecture.png)
-*Australian Tree of Life architecture overview. Note the following are not currently available: the process of researchers submitting read data directly to ENA for assembly; the interactive AToL web application.*
+*Australian Tree of Life architecture overview. Note: the interactive AToL web application is currently in development.*
 
 ## Partners
 
