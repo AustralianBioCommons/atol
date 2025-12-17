@@ -1,6 +1,6 @@
 ## About
 
-This repository hosts documentation for the Australian Tree of Life infrastructure capability project.
+This repository hosts documentation about the infrastructure being developed by the Australian Tree of Life Bioinformatics team.
 
 ## Acknowledgements
 
