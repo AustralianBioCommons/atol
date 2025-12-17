@@ -1,6 +1,6 @@
 ---
-title: Australian Tree of Life Development Team
-description: The team working on the Australian Tree of Life project.
+title: Australian Tree of Life Bioinformatics Team
+description: The team working on the Genome Engine.
 toc: false
 ---
 
