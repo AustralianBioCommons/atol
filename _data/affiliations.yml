@@ -47,7 +47,19 @@
   url: https://www.qcif.edu.au/
 
 - name: AGRF
-  image_url: images/AGRF-logo.webp
+  image_url: images/AGRF-logo-2.png
   expose: true
   type: intern-partner
   url: https://www.agrf.org.au/
+
+- name: European Nucleotide Archive
+  image_url: images/ENA_Logo_tagline.svg
+  expose: true
+  type: partner
+  url: https://www.ebi.ac.uk/ena/browser/home
+
+- name: Darwin Tree of Life
+  image_url: images/DToL-logo-coloured.png
+  expose: true
+  type: partner
+  url: https://www.darwintreeoflife.org/

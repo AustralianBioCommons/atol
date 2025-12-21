@@ -120,8 +120,7 @@ Engine data flow.*
 ## Partners
 
 AToL Bioinformatics is co-funded by Bioplatforms Australia and the Minderoo
-Foundation, and supported by project partners at the University of Melbourne
-and QCIF. The AGRF are hosting a PhD student intern.
+Foundation, with project partners at the University of Melbourne, QCIF, the European Nucleotide Archive, and the Darwin Tree of Life. The AGRF are hosting a PhD student intern.
 
 Bioplatforms Australia is enabled by NCRIS.
 
