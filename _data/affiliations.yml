@@ -47,7 +47,7 @@
   url: https://www.qcif.edu.au/
 
 - name: AGRF
-  image_url: images/AGRF-logo-2.png
+  image_url: images/AGRF-logo.png
   expose: true
   type: intern-partner
   url: https://www.agrf.org.au/
