@@ -7,7 +7,7 @@ toc: false
 ### What metadata does the Genome Engine require?
 
 The list of Bioplatforms metadata fields used in the Genome Engine is available
-[here](https://docs.google.com/spreadsheets/d/1qtVF_owSLjjkDxfCqMiG7rV2omp-F70-3HgHaXIeqOI/edit?usp=sharing).
+[here](https://docs.google.com/spreadsheets/d/1JWhDcPnIk3vaixL8Dz9AZjSvpJpuItaz3BsxAeAro48/edit?gid=0#gid=0).
 The list contains fields which are collected or defined during sampling,
 sequencing, or internal Bioplatforms processing steps. Fields with controlled
 vocabularies or other value or format constraints are designated. These fields
@@ -16,7 +16,7 @@ sufficiently document provenance and facilitate interoperability and
 reusability. 
 
 Controlled vocabulary terms are listed
-[here](https://docs.google.com/spreadsheets/d/1qtVF_owSLjjkDxfCqMiG7rV2omp-F70-3HgHaXIeqOI/edit?gid=1263334219#gid=1263334219).
+[here](https://docs.google.com/spreadsheets/d/1JWhDcPnIk3vaixL8Dz9AZjSvpJpuItaz3BsxAeAro48/edit?gid=1263334219#gid=1263334219).
 Use of controlled vocabulary terms is necessary for accurate data filtering and
 for compliance with ENA and Tree of Life standards.
 
@@ -87,10 +87,7 @@ publishing.
 
 ### What type of input data does the Genome Engine use?
 
-Our core assembly type is PacBio HiFi reads with optional Hi-C reads for
-scaffolding and haplotype resolution. We can also use Oxford Nanopore R10+
-reads for primary assembly and Ultralong reads for scaffolding in combination
-with HiFi reads.
+Our core assembly type is PacBio HiFi or Oxford Nanopore R10+ reads for primary assembly. We recommend Hi-C reads for scaffolding and haplotype resolution.
 
 ### Can I use the Genome Engine if I'm not a member of a Framework project?
 
