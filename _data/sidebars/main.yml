@@ -3,5 +3,7 @@ subitems:
     url: /index
   - title: FAQ
     url: /faq
+  - title: Contact us
+    url: /contact-us
   - title: Team
     url: /team

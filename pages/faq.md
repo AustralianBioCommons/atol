@@ -92,5 +92,7 @@ Our core assembly type is PacBio HiFi or Oxford Nanopore R10+ reads for primary 
 ### Can I use the Genome Engine if I'm not a member of a Framework project?
 
 Yes. You will need to submit your raw data to an INSDC database and follow our
-metadata guidelines. From there, the Genome Engine can ingest your data and do
-the assembly. Please contact us first if you want to do this.
+metadata guidelines. From there, the Genome Engine can ingest your data and run
+the assembly. 
+
+If you are interested in having your data assembled by the Genome Engine, please [contact us](https://australianbiocommons.github.io/atol/contact-us).
