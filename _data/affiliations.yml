@@ -40,7 +40,7 @@
   type: funder
   url: https://www.minderoo.org/
 
-- name: QCIF
+- name: QCIF Digital Research
   image_url: images/QCIF-Logo.png
   expose: true
   type: partner
